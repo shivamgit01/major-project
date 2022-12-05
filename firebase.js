@@ -16,14 +16,14 @@ import { initializeApp } from "firebase/app";
 // https://firebase.google.com/docs/web/setup#available-libraries
 
 // Your web app's Firebase configuration
-const firebaseConfig = {
-  apiKey: "AIzaSyCHc36vxy2g2PRfglUxIZ961SzAIL07i-M",
-  authDomain: "reactnativefirebase-924c6.firebaseapp.com",
-  projectId: "reactnativefirebase-924c6",
-  storageBucket: "reactnativefirebase-924c6.appspot.com",
-  messagingSenderId: "217158187755",
-  appId: "1:217158187755:web:43022aa87e3757b1771cae",
-};
+// const firebaseConfig = {
+//   apiKey: "",
+//   authDomain: "",
+//   projectId: "",
+//   storageBucket: "",
+//   messagingSenderId: "",
+//   appId: "",
+// };
 
 // Initialize Firebase
 let app;
